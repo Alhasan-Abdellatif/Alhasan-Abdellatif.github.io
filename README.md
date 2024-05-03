@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alhasan</h1>
-<h3 align="center">Deep Learning Researcher with interest in applications in science and engineering</h3>
+<h3 align="center">Deep Learning Researcher with interest in AI applications in Science and Engineering</h3>
 
 - 🔭 I’m currently working on [ECO-AI project for CO2 storage in deep geological formations.](https://ai4netzero.github.io/eco-ai/)
 

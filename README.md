@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Graph Neural Networks, Transformers**
 
-- 👯 I’m looking to collaborate on **The interface between Deep Learning and Biomedical sciences**
+- 👯 I’m looking to collaborate on **The interface between Deep Learning and problems in Science and Technology including: Computer Vision, Physics Simulations and Biomedical sciences**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alhasan-Abdellatif](https://github.com/Alhasan-Abdellatif)
 

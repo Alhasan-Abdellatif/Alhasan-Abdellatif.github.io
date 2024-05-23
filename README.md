@@ -9,10 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alhasan-Abdellatif](https://github.com/Alhasan-Abdellatif)
 
-- 📝 I regularly write articles on [https://medium.com/@alhasanabdellatif](https://medium.com/@alhasanabdellatif)
-
-- 💬 Ask me about **PyTorch, GANs**
-
 - 📫 How to reach me **alhasanabdellatif@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

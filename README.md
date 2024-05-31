@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ECO-AI project for CO2 storage in deep geological formations.](https://ai4netzero.github.io/eco-ai/)
 
-- 🌱 I’m currently learning **Graph Neural Networks, Transformers**
+- 🌱 I have very good experience with **Generative Adversarial Networks, Graph Neural Networks, Transformers and CNN-based models (U-Net, ResNets,..)**
 
 - 👯 I’m looking to collaborate on **The interface between Deep Learning and problems in Computer Vision, Physics Simulations and Biomedical sciences**
 
